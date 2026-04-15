@@ -1,0 +1,35 @@
+# AWS VPC, EC2 & Security Groups Notes
+
+## 1. VPC Setup Steps
+- Create a VPC with CIDR block (e.g., 10.0.0.0/16)
+- Create Public and Private Subnets
+- Attach Internet Gateway to VPC
+- Configure Route Tables
+- Associate Subnets with Route Tables
+
+---
+
+## 2. EC2 Deployment Steps
+- Launch EC2 Instance (Amazon Linux / Ubuntu)
+- Select VPC and Subnet
+- Assign Security Group
+- Create or use Key Pair (.pem file)
+- Connect using SSH:
+  ssh -i key.pem ec2-user@public-ip
+
+---
+
+## 3. Security Groups Configuration
+- Allow SSH (Port 22) → My IP only
+- Allow HTTP (Port 80) → 0.0.0.0/0
+- Allow HTTPS (Port 443) → 0.0.0.0/0
+- Restrict all unnecessary inbound traffic
+- Use least privilege principle
+
+---
+
+## 4. Key Concepts Learned
+- VPC = Virtual Private Cloud (isolated network)
+- Subnets = Division of VPC
+- Internet Gateway = Internet access
+- Security Groups = Firewall rules
