@@ -1,113 +1,127 @@
-# Hi 👋, I'm Chaitanya Chintappanavar  
-### Linux & AWS Enthusiast | Aspiring DevOps Engineer | System Administrator (Fresher)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius:50%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Chaitanya Chintappanavar</h1>
+
+<h3 align="center">Linux System Administrator | AWS Cloud Enthusiast | Aspiring DevOps Engineer</h3>
 
 ---
 
 ## 🚀 About Me
-I am a Linux and AWS trained fresher with hands-on experience in RHEL Linux system administration and AWS cloud environments.  
-I have practical exposure to system troubleshooting, user management, networking, and shell scripting through training and self-driven projects.
-
-I enjoy working on Linux systems, cloud infrastructure, and automation tasks, and I am currently focused on building strong fundamentals in DevOps and system administration.
+- 🎓 BCA Graduate (CGPA: 7.69)  
+- ☁️ Trained in Linux System Administration & AWS Cloud  
+- 🐧 Hands-on experience in RHEL Linux environments  
+- ⚙️ Interested in DevOps, Automation & Cloud Infrastructure  
+- 🔧 Passionate about troubleshooting, system support & networking  
 
 ---
 
-## 🎯 Career Objective
-To work as a Linux System Administrator / Technical Support Engineer where I can apply my knowledge of Linux, AWS, and networking to support and maintain IT infrastructure in real-time environments.
+## 🎯 Roles I’m Targeting
+- Linux System Administrator  
+- Technical Support Engineer  
+- Cloud Support Associate (AWS)  
+- Junior DevOps Engineer  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Operating Systems
-- Linux (RHEL 6/7/9)
-- System Administration (Users, Groups, Permissions, Services)
+### 🐧 Linux / System Administration
+- RHEL (6/7/9)
+- User & Group Management
+- File Permissions & Process Management
+- LVM (PV, VG, LV)
+- Service Management (systemd)
+- Log Monitoring & Troubleshooting
 
-### ☁️ Cloud Computing
-- AWS (EC2, VPC, ALB, Auto Scaling, SNS, CloudFormation basics)
+### ☁️ Cloud (AWS)
+- EC2 (Instance Management)
+- VPC (Subnets, Route Tables, IGW, NAT Gateway)
+- Security Groups & IAM Basics
+- Load Balancer (ALB basics)
+- Auto Scaling concepts
+- CloudFormation basics
+
+### 🌐 Networking
+- TCP/IP, DNS, DHCP
+- Subnetting & Routing
+- Network troubleshooting (ping, traceroute, curl)
 
 ### ⚙️ Scripting & Automation
 - Bash / Shell Scripting
-- Automation for backups and system tasks
-
-### 🌐 Networking
-- TCP/IP, DNS, Routing basics
-- Subnetting fundamentals
-- Network troubleshooting (ping, traceroute, curl)
+- Backup automation scripts
+- Basic system monitoring scripts
 
 ### 🧰 Tools & Platforms
-- Git & GitHub
-- Apache Web Server
-- VSFTPD (FTP Server)
-- NFS (Network File System)
-- YUM Package Manager
-- Cisco Packet Tracer
+- Git & GitHub  
+- Apache Web Server  
+- VSFTPD (FTP Server)  
+- NFS (File Sharing)  
+- YUM Package Manager  
+- Cisco Packet Tracer  
 
 ---
 
 ## 📌 Projects
 
-### 1. Linux System Administration
-- Managed users, groups, and permissions  
-- Configured Apache, FTP, CRON, systemd services  
-- LVM storage management (PV, VG, LV)  
-- Log analysis and system troubleshooting  
+### 🐧 Linux System Administration
+- User, group & permission management  
+- Apache, FTP, CRON, systemd services configuration  
+- LVM storage management  
+- System log analysis & troubleshooting  
 
-### 2. AWS Cloud & Networking Setup
-- EC2 instances in public/private subnets  
-- VPC setup with Internet Gateway & NAT Gateway  
-- Routing tables and security groups configuration  
-- Basic load balancing and high availability setup  
+### ☁️ AWS Cloud Infrastructure
+- EC2 deployment in public/private subnets  
+- VPC setup with IGW & NAT Gateway  
+- Routing tables & security configuration  
+- Basic load balancing setup  
 
-### 3. CCNA Networking Practice
+### 🌐 Networking (CCNA Practice)
 - Network topology design using Packet Tracer  
-- Subnetting and IP addressing  
-- Static routing, OSPF, DHCP, DNS configuration  
-- Network troubleshooting  
+- Subnetting & IP addressing  
+- OSPF, DHCP, DNS configuration  
+- Connectivity troubleshooting  
 
-### 4. File Sharing & Web Services
-- FTP server setup using VSFTPD  
-- NFS server-client configuration  
-- Apache web server hosting  
+### 🔧 File Sharing & Web Hosting
+- VSFTPD FTP server setup  
+- NFS client-server architecture  
+- Apache web hosting  
 
-### 5. Shell Scripting Automation
-- Backup automation scripts  
+### ⚙️ Shell Scripting
+- Automated backup scripts  
 - System monitoring scripts  
-- Cleanup and task automation  
+- Basic Linux automation tasks  
 
 ---
 
 ## 💼 Internship Experience
 
-### AWS & Linux Intern – Besant Technologies, Bangalore
-- Worked on AWS EC2, VPC, Security Groups, Auto Scaling  
-- Linux system administration in RHEL environment  
-- Networking: subnets, route tables, troubleshooting  
+### AWS & Linux Intern – Besant Technologies
+- Worked on AWS EC2, VPC, Security Groups  
+- Linux system administration tasks in RHEL  
+- Networking configuration & troubleshooting  
 - Shell scripting automation  
 
 ### CCNA Networking Intern – Besant Technologies
-- TCP/IP, subnetting, routing (OSPF)  
+- TCP/IP, subnetting & routing (OSPF)  
 - DHCP & DNS configuration  
-- Packet Tracer network troubleshooting  
+- Packet Tracer simulations  
 
 ### Python Intern – HAEGL Technologies Pvt Ltd
-- Backend development for EcoSound AI project  
-- Python debugging and development support  
+- Backend development support  
+- Debugging & Python scripting tasks  
+- Worked on EcoSound AI project  
 
 ---
 
-## 🎓 Certifications
-- Linux Training – Besant Technologies  
-- Django Developer with CNN/DNN  
-
----
-
-## 📫 Contact Me
+## 📫 Connect with Me
 - 📧 Email: chaitanyabc9@gmail.com  
 - 📞 Phone: +91-6361036785  
-- 🔗 LinkedIn: www.linkedin.com/in/chaitanya-chintappanavar  
-- 🐙 GitHub: (add your GitHub link here)
+- 🔗 LinkedIn: linkedin.com/in/chaitanya-chintappanavar  
+- 💻 GitHub: github.com/yourusername  
 
 ---
 
-## 🚀 Goal
-To grow into a strong Linux / Cloud / DevOps Engineer by building real-world infrastructure and automation skills.
+## 🎯 Career Goal
+To become a strong **Linux / Cloud / DevOps Engineer** by building real-world infrastructure, automation systems, and scalable cloud solutions.
