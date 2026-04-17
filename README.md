@@ -1,6 +1,6 @@
 # Chaitanya Chintappanavar – Linux & AWS Portfolio
 
-## 👨‍💻 About Me
+##  About Me
 I am a Linux and AWS trained fresher with hands-on experience in RHEL Linux system administration and AWS cloud environments.  
 I have practical exposure to system troubleshooting, user management, networking, and shell scripting through training and self-driven projects.
 
@@ -8,12 +8,12 @@ I enjoy working on Linux systems, cloud infrastructure, and automation tasks, an
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 To work as a Linux System Administrator / Technical Support Engineer where I can apply my knowledge of Linux, AWS, and networking to support and maintain IT infrastructure in real-time environments.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Operating Systems
 - Linux (RHEL 6/7/9)
@@ -41,9 +41,9 @@ To work as a Linux System Administrator / Technical Support Engineer where I can
 
 ---
 
-## 📁 Projects
+## Projects
 
-### 1. Linux System Administration (Hands-on Lab Work)
+### 1. Linux System Administration (Hands-on Internship Experience)
 - Managed users, groups, and file permissions
 - Configured and maintained services like Apache, FTP, CRON, and systemd
 - Performed disk management using LVM (PV, VG, LV)
@@ -81,7 +81,7 @@ To work as a Linux System Administrator / Technical Support Engineer where I can
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
 ### AWS & Linux Intern – Besant Technologies, Bangalore
 - Worked on AWS EC2, VPC, Security Groups, and Auto Scaling
@@ -105,13 +105,13 @@ To work as a Linux System Administrator / Technical Support Engineer where I can
 
 ---
 
-## 📜 Certifications
+## Certifications
 - Linux Training – Besant Technologies
 - Django Developer with CNN/DNN
 
 ---
 
-## 📫 Contact
+## Contact
 - Email: chaitanyabc9@gmail.com  
 - Phone: +91-6361036785  
 - LinkedIn: www.linkedin.com/in/chaitanya-chintappanavar  
