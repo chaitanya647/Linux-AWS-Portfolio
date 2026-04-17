@@ -1,7 +1,7 @@
 # Chaitanya Chintappanavar – Linux & AWS Portfolio
 
 ## 👨‍💻 About Me
-I am a Linux and Networking trained fresher with hands-on experience in RHEL Linux system administration and AWS cloud environments.  
+I am a Linux and AWS trained fresher with hands-on experience in RHEL Linux system administration and AWS cloud environments.  
 I have practical exposure to system troubleshooting, user management, networking, and shell scripting through training and self-driven projects.
 
 I enjoy working on Linux systems, cloud infrastructure, and automation tasks, and I am currently focused on building strong fundamentals in DevOps and system administration.
