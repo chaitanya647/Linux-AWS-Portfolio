@@ -43,7 +43,7 @@ To work as a Linux System Administrator / Technical Support Engineer where I can
 
 ## Projects
 
-### 1. Linux System Administration (Hands-on Internship Experience)
+### 1. Linux System Administration 
 - Managed users, groups, and file permissions
 - Configured and maintained services like Apache, FTP, CRON, and systemd
 - Performed disk management using LVM (PV, VG, LV)
